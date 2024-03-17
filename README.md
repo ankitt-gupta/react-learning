@@ -96,3 +96,18 @@ export default function Button({ caption, type = "submit" }) {
 ```
 
 
+
+
+**Children Props -> content between our component tags**
+
+![alt text](image-1.png)
+
+use '{}' destructuring instad of props in TabButton tag:
+
+![alt text](image-3.png)
+
+
+![alt text](image-2.png)
+
+
+
