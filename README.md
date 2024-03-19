@@ -96,7 +96,7 @@ export default function Button({ caption, type = "submit" }) {
 ```
 
 
-
+# Children Props
 
 **Children Props -> content between our component tags**
 
