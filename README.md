@@ -110,4 +110,11 @@ use '{}' destructuring instad of props in TabButton tag:
 ![alt text](image-2.png)
 
 
+**This Image shows how we can pass down function from one component to another
+Like here from landingPage to TabButton**
+
+![alt text](image-4.png)
+
+
+
 
