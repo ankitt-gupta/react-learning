@@ -119,6 +119,5 @@ Like here from landingPage to TabButton**
 ![alt text](image-4.png)
 
 
----—-------
-TYPESCRIPT STARTS HERE
+
 
