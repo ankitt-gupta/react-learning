@@ -119,5 +119,10 @@ Like here from landingPage to TabButton**
 ![alt text](image-4.png)
 
 
+1. ...props is added to add remaning props passed for the component.
+2. useRef: we can use it for accessing the value or properties of an eleent AND current property is always used to access further elements.
+3. 
+4. 
+
 
 
